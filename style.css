@@ -1,3 +1,7 @@
+body{
+  height:100dvh;
+  width:100dvw;
+}
 .loading{
   height: 100dvh;
   width: 100dvw;
