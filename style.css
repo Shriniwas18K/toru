@@ -1,6 +1,6 @@
 .loading{
-  height: 100vh;
-  width: 100vw;
+  height: 100dvh;
+  width: 100dvw;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -24,8 +24,8 @@ canvas {
   /* change to block when content is loaded fully */
   position: fixed;
   z-index: 103;
-  top:2vh;
-  left:2vh;
+  top:2dvh;
+  left:2dvh;
   font-size: clamp(14px,1.5em,10cm);
   background: #00000000;
   border: none;
@@ -38,8 +38,8 @@ canvas {
   font-size: 0.7em;
   position: fixed;
   z-index: 103;
-  top:7vh;
-  left:1vh;
+  top:7dvh;
+  left:1dvh;
 }
 #menu{
   display: none;
